@@ -23,9 +23,9 @@ int main(void)
     } while (ret > 0);
 
     if (ret == EOF)
-        puts("EOF.");
+        printf("EOF.");
     else
-        puts("Bad input.");
+        printf("Bad input.");
     return 0;
 }
 
