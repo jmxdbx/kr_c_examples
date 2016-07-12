@@ -16,8 +16,7 @@ int main(void)
     int ret;
     do {
         int num;
-        fputs("Enter an integer: ", stdout);
-        fflush(stdout);
+        printf("Enter an integer: ");
         ret = getint(&num);
         if (ret > 0)
             printf("You entered: %d\n", num);
