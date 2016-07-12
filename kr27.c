@@ -1,3 +1,6 @@
+/* Example atoi(char s[]) from K&R section 2.7, converts character array s
+to integer. */
+
 #include <stdio.h>
 
 int atoi(char s[]);
