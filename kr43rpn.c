@@ -1,3 +1,5 @@
+/* K&R C section 4.3 example program, reverse polish notation calculator. */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
