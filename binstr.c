@@ -1,3 +1,5 @@
+/* Converts binary number to string */
+
 #include <stdio.h>
 #include <string.h>
 
