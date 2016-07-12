@@ -1,3 +1,5 @@
+/* K&R C exercise 4-13, recursive string reverse. */
+
 #include <stdio.h>
 #define MAXLINE 1024
 
